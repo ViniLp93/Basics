@@ -16,3 +16,4 @@ Route::get('/', function () {
 });
 
 Route::get('/listagem-usuario', "UserController@listUser");
+
